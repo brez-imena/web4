@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#iwbl {
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#iwbl {
+    background-repeat: repeat;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+#i96j {
+    background-image: url("../O75G4NUP.jpeg");
+    background-repeat: repeat;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 169.333px;
+}
+
+.htmlpage-row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.htmlpage-cell {
+    width: 8%;
+    display: table-cell;
+    height: 75px;
+}
+
+.c6230 {
+    width: 12.71%;
+}
+
+.c6239 {
+    width: 70%;
+    color: rgb(255, 0, 0);
+    font-size: 44px;
+}
+
+.c6679 {
+    color: black;
+    width: 113px;
+    height: 113px;
+}
+
+.c7187 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 44px;
+    color: rgb(255, 0, 0);
+    position: absolute;
+}
+
+.c7244 {
+    position: absolute;
+}
+
+.c7528 {
+    color: rgb(27, 0, 255);
+    font-size: 33px;
+    position: absolute;
+}
+
+.c9211 {
+    padding: 10px;
+}
+
+.c9269 {
+    font-family: fontface__仿宋_GB2312__4__397461004473;
+    font-size: 24px;
+    white-space-collapse: preserve;
+}
+
+.c9714 {
+    color: black;
+    width: 365px;
+    height: 662.3332824707031px;
+}
+
+.c9920 {
+    color: black;
+    width: 488px;
+    height: 665.3333435058594px;
+}
+
+@media (max-width: 768px) {
+    .htmlpage-cell {
+        width: 100%;
+        display: block;
+    }
+}
